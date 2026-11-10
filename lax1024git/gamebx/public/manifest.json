@@ -1,0 +1,15 @@
+{
+  "name": "slotsbc777",
+  "short_name": "slotsbc777",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "display": "standalone"
+}
